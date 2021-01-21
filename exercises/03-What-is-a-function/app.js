@@ -10,3 +10,13 @@ var total3 = sum(2,3);
 console.log(total);
 console.log(total2);
 console.log(total3);
+
+function multi(number1,number2){
+
+    return number1*number2;
+    }
+    
+  var superduper = multi(3445324*53454423);
+
+  console.log(superduper);
+    

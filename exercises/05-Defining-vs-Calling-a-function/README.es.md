@@ -45,3 +45,5 @@ function concatenateNumberToString(localNumber, localString) {
 Recuerda agregar la línea de `return`. Cada función debe retornar algo. En este caso debería ser el resultado de la multiplicación.
 
 ¡No te olvides del punto y coma!
+
+

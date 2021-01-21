@@ -21,3 +21,17 @@ let total3 = sum(2,3);
 # 📝 Instrucciones
 
 Calcula la suma entre **3445324** y **53454423** y asigna el resultado a una variable llamada `superduper`
+
+function multi(number1, number2){
+
+return number1*number2;
+
+
+}
+
+let superduper = sum (3445324*53454423);
+
+
+
+
+
